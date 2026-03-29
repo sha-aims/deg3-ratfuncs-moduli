@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "deg3-ratfuncs-moduli: Software for Computing Moduli and Automorphism Groups of Degree-3 Rational Functions"
+authors:
+  - family-names: "Shaska"
+    given-names: "Tony"
+    affiliation: "Oakland University"
+    orcid: "https://orcid.org/0000-0002-0000-0000"   # ← change if you have an ORCID
+repository-code: "https://github.com/sha-aims/deg3-ratfuncs-moduli"
+url: "https://github.com/sha-aims/deg3-ratfuncs-moduli"
+license: MIT
+keywords:
+  - rational functions
+  - moduli space
+  - automorphism groups
+  - invariant theory
+  - arithmetic dynamics
+  - SageMath
+date-released: "2025-03-29"
+version: "1.0"
+references:
+  - type: article
+    title: "Software for Computing Moduli and Automorphism Groups of Degree-3 Rational Functions"
+    authors:
+      - family-names: "Shaska"
+        given-names: "Tony"
+    year: 2025
+    url: "https://arxiv.org/abs/2503.10835"
+    doi: "10.48550/arXiv.2503.10835"
